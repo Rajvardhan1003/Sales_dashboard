@@ -1,12 +1,14 @@
-📈 Sales Intelligence Dashboard: Madhav Store Sales Insights
+📈 Sales Intelligence Dashboard: 
+Madhav Store Sales Insights
 An interactive Power BI dashboard designed to visualize and analyze online sales data of Madhav Store across India—providing insights into product performance, revenue trends, regional contributions, and customer purchasing behavior.
 
 🧾 Short Description / Purpose
+
 The Sales Intelligence Dashboard helps business owners and analysts at Madhav Store gain real-time insights into sales performance across regions, product categories, and time periods. It enables quick decision-making by providing a visual overview of KPIs like total revenue, order volume, and best-selling products.
 
 ⚙️ Tech Stack
-This dashboard was built using the following tools and technologies:
 
+This dashboard was built using the following tools and technologies:
 📊 Power BI Desktop – Main platform for building interactive reports and dashboards.
 
 🧼 Power Query Editor – Used for importing, transforming, and cleaning sales data from multiple sources.
@@ -18,6 +20,7 @@ This dashboard was built using the following tools and technologies:
 📁 File Format – .pbit template file for reusable reporting and .png images for snapshot previews.
 
 🔗 Data Source
+
 Internal Data Source: Exported sales data from Madhav Store’s e-commerce system (CSV/Excel/SQL), including:
 
 Customer details (location, segment)
